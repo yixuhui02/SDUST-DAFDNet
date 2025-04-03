@@ -1,2 +1,2 @@
 # SDUST-DAFDNet
-Obtain contact email for the dataset 2487720870@qq.com
+Contact email for obtaining the dataset: 2487720870@qq.com
